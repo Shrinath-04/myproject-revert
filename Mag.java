@@ -3,6 +3,12 @@ public class Msg{
 		int a=10;
 	         int b=2;
 		 System.out.println("Add is : "+(a+b));
+		 System.out.println("diff is : "+(a-b));
+		 System.out.println("prod is :"+(a*b));
+
+
+
 	}
+
 }
 
